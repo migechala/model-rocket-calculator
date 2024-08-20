@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:modelrocketcalculator/get_info.dart';
 import 'package:modelrocketcalculator/math.dart';
 import 'package:modelrocketcalculator/show_info.dart';
-import 'dart:math';
 
 void main() {
   runApp(const MyApp());
